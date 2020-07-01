@@ -1,0 +1,34 @@
+{
+  "-MB7-TQlWk3CP7jJTn3B" : {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pc-budget.appspot.com/o?uploadType=resumable&name=products%2Fproducts%2F1593567206327.jpg&upload_id=AAANsUnnrgZW0am8y7a3tGtntVgp2nK6B-xq50mBDaGinwO4wH9kaEtmRlhszEQ_jIB1qLuYUILJiQDAfyp-8F_79kk&upload_protocol=resumable",
+    "nameProduct" : "Acer Aspire 5 Slim Laptop",
+    "productDesc" : "15.6 pulgadas Full HD IPS display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4 GB Ram GDDR4, 128 GB SSD, teclado retroiluminado, Windows 10, plateado.",
+    "productId" : "L01",
+    "productPrice" : "349.99",
+    "productRank" : "4.4 de 5.0"
+  },
+  "-MB70PWv3aW8-3Cpgx1p" : {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pc-budget.appspot.com/o?uploadType=resumable&name=products%2Fproducts%2F1593567455013.jpg&upload_id=AAANsUmtRnlgNu0PuJwIq6KGfpG8zV4ZgySYeV2LAi_-0YqEyx0uvkl-EVcuuS00c123dfbR9cPA1Rm75fER-bX4to8&upload_protocol=resumable",
+    "nameProduct" : "ASUS Prime Z390-A - Placa base LGA1151 (Intel 8ª y 9ª generación)",
+    "productDesc" : "Diseñado para procesadores Intel Core de novena y octava generación para maximizar la conectividad y la velocidad con M.2, USB 3.1 Gen2 y ASUS Optimum II para una mejor estabilidad del overclocking de DRAM \n\n Optimización de 5 vías renovada que tiene la inteligencia de overclock de una CPU basada en predicción inteligente y telemetría térmica \n\nLas ranuras PCIe fortificadas de Safe Slot Core pendientes de patente evitan daños causados por GPU pesadas. \n\n Audio para videojuegos HD de 8 canales con Realtek ALC887 de alta definición",
+    "productId" : "TM01",
+    "productPrice" : "179.99",
+    "productRank" : "4.5 de 5.0"
+  },
+  "-MB70dj9-MAbrotwgZwl" : {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pc-budget.appspot.com/o?uploadType=resumable&name=products%2Fproducts%2F1593567515114.jpg&upload_id=AAANsUmOFe1anmDWAIkwivzrMtx2FkXWl9RTYWQm6eRy9eRYhmaKi9ii7ZLggKlk79OEmhZTRsLu-fee2XiIgnvYWhGX4l0MGg&upload_protocol=resumable",
+    "nameProduct" : "Acer Nitro 5 Gaming Laptop",
+    "productDesc" : "9th Gen Intel Core i5-9300H, Nvidia GeForce GTX 1650, 15.6\" Full HD ips display, 8 Gb ram GDDR4, 256GB NVMe ssd, WiFi 6, Waves MaxxAudio, teclado retroiluminado RGB, Windows 10.",
+    "productId" : "L02",
+    "productPrice" : "579.99",
+    "productRank" : "4.1 de 5.0"
+  },
+  "-MB71H3dUyYBykr_yzDt" : {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pc-budget.appspot.com/o?uploadType=resumable&name=products%2Fproducts%2F1593567682978.jpg&upload_id=AAANsUmCzt9oTfzGs2kS6v3yLLEs0iw8qXfvpRBApEHIIfSTAzy4qtPByV038mngew2L_jI0O_Rgjvq74V_3yYihrM7x4Dkh9w&upload_protocol=resumable",
+    "nameProduct" : "MSI MPG Z390 Gaming Edge AC LGA1151 (Intel 8th and 9th Gen)",
+    "productDesc" : "Compatible con los procesadores Intel Core / Pentium Gold / Celeron 9ª generación i9-9900K, i7-9700K, i5-9600K y 8ª generación para socket LGA 1151. \n\nSoporta memoria DDR4 de doble canal, hasta 4400 (OC) MHz; ranuras DIMM: 4. Sistema operativo: soporte para Windows 10 de 64 bits \n\n2 puertos Turbo M.2, Intel Optane Memory Ready, Turbo USB 3.1 GEN2; USB 2.0 (frontal): 4.",
+    "productId" : "TM02",
+    "productPrice" : "189.54",
+    "productRank" : "4.5 de 5.0"
+  }
+}
